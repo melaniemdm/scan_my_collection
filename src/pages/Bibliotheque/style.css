@@ -1,0 +1,47 @@
+/* Titre */
+.bibliotheque-title{
+  text-align: center;
+  font-size: 2.2rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 60px;
+  color: #ffffff;
+}
+/* Header Bibliotheque page */
+.header-bibliotheque{
+  min-height: 100vh;
+  padding: 80px 60px;
+  background: radial-gradient(circle at top, #1c1c1c, #0d0d0d);
+  color: #f5f5f5;
+  font-family: "Montserrat", sans-serif;
+}
+.biblio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 22px;
+}
+
+.biblio-card {
+  border-radius: 18px;
+  padding: 18px 18px;
+  background: linear-gradient(145deg, #181818, #101010);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.biblio-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 18px 34px rgba(0, 0, 0, 0.55);
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+.biblio-card-title {
+  font-size: 1rem;
+  letter-spacing: 0.06em;
+  margin-bottom: 10px;
+}
+
+.biblio-card-isbn {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.75);
+}

@@ -5,9 +5,9 @@ export default function Card() {
   return (
     <div className="card-container">
       <div className="card-grid">
-        <div className="card">Objet 1</div>
-        <div className="card">Objet 2</div>
-        <div className="card">Objet 3</div>
+        <div className="card">Stylo Legami</div>
+        <Link to="/bibliotheque" className="card">Bibliothèque</Link>
+        <div className="card">Autre</div>
       </div>
     </div>
   );

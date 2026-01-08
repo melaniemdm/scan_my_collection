@@ -12,7 +12,7 @@ export default function Collection() {
       </Link>
      
 
-      <h1 className="collection-title">Ma Collection</h1>
+      <h1 className="collection-title">Mes Collections</h1>
 
       <Card />
     </div>
