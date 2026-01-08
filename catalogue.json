@@ -5,47 +5,56 @@
   {
     "id": 1,
     "title": "Au boulot. M. Costaud",
-    "isbn": "9782012248908"
+    "isbn": "9782012248908",
+    "url" :""
   },
   {
     "id": 2,
     "title": "Be... Be... Bonjour, Mme Timide",
-    "isbn": "9782012251953"
+    "isbn": "9782012251953",
+    "url" :""
   },
   {
     "id": 3,
     "title": "Bienvenue chez Mme Contraire",
-    "isbn": "9782012251854"
+    "isbn": "9782012251854",
+    "url" :""
   },
   {
     "id": 4,
     "title": "Coffret collector Monsieur Madame",
-    "isbn": "9782012261099"
+    "isbn": "9782012261099",
+    "url" :""
   },
   {
     "id": 5,
     "title": "Coffret Monsieur Madame",
-    "isbn": "9782013987639"
+    "isbn": "9782013987639",
+    "url" :""
   },
   {
     "id": 6,
     "title": "Heureusement que M. Lent est là",
-    "isbn": "9782012248977"
+    "isbn": "9782012248977",
+    "url" :""
   },
   {
     "id": 7,
     "title": "Joyeux Noël, M. Inquiet !",
-    "isbn": "9782012248960"
+    "isbn": "9782012248960",
+    "url" :""
   },
   {
     "id": 8,
     "title": "L'ami de Mme Chance",
-    "isbn": "9782012249080"
+    "isbn": "9782012249080",
+    "url" :""
   },
   {
     "id": 9,
     "title": "L'incroyable secret de M. Étonnant",
-    "isbn": "9782012248922"
+    "isbn": "9782012248922",
+    "url" :""
   },
   {
     "id": 10,
@@ -55,52 +64,62 @@
   {
     "id": 11,
     "title": "L'étonnant fou rire de M. Étonnant",
-    "isbn": "9782012200845"
+    "isbn": "9782012200845",
+    "url" :""
   },
   {
     "id": 12,
     "title": "L'étonnant talent de M. Glouton",
-    "isbn": "9782012200920"
+    "isbn": "9782012200920",
+    "url" :""
   },
   {
     "id": 13,
     "title": "L'étrange mal de M. Bizarre",
-    "isbn": "9782012248878"
+    "isbn": "9782012248878",
+    "url" :""
   },
   {
     "id": 14,
     "title": "La bonne action de M. Avare",
-    "isbn": "9782012248854"
+    "isbn": "9782012248854",
+    "url" :""
   },
   {
     "id": 15,
     "title": "La folle journée de Mme Sage",
-    "isbn": "9782012251922"
+    "isbn": "9782012251922",
+    "url" :""
   },
   {
     "id": 16,
     "title": "La folle promenade de Mme Follette",
-    "isbn": "9782012200876"
+    "isbn": "9782012200876",
+    "url" :""
   },
   {
     "id": 17,
     "title": "La grande aventure de Mme Petite",
-    "isbn": "9782012200968"
+    "isbn": "9782012200968",
+    "url" :""
   },
   {
     "id": 18,
     "title": "La grande journée de M. Petit",
-    "isbn": "9782012271869"
+    "isbn": "9782012271869",
+    "url" :""
   },
   {
     "id": 19,
     "title": "La rivale de Mme Acrobate",
-    "isbn": "9782012249035"
+    "isbn": "9782012249035",
+    "url" :""
   },
   {
     "id": 20,
     "title": "Le cadeau de Mme Beauté",
-    "isbn": "9782012249059"
+    "isbn": "9782012249059",
+    "url" :""
   },
   {
     "id": 21,
@@ -110,522 +129,626 @@
   {
     "id": 22,
     "title": "Le Grand Livre des Monsieur Madame",
-    "isbn": "9782012252097"
+    "isbn": "9782012252097",
+    "url" :""
   },
   {
     "id": 23,
     "title": "Le grand rêve de M. Petit",
-    "isbn": "9782012249011"
+    "isbn": "9782012249011",
+    "url" :""
   },
   {
     "id": 24,
     "title": "Le perroquet de M. Bavard",
-    "isbn": "9782012248861"
+    "isbn": "9782012248861",
+    "url" :""
   },
   {
     "id": 25,
     "title": "Les talents d'artiste de M. Farceur",
-    "isbn": "9782012248939"
+    "isbn": "9782012248939",
+    "url" :""
   },
   {
     "id": 26,
     "title": "M. Atchoum",
-    "isbn": "9782012248038"
+    "isbn": "9782012248038",
+    "url" :""
   },
   {
     "id": 27,
     "title": "M. Aventure",
-    "isbn": "9782012042636"
+    "isbn": "9782012042636",
+    "url" :""
   },
   {
     "id": 28,
     "title": "M. Bagarreur",
-    "isbn": "9782012248052"
+    "isbn": "9782012248052",
+    "url" :""
   },
   {
     "id": 29,
     "title": "M. Bavard",
-    "isbn": "9782012248427"
+    "isbn": "9782012248427",
+    "url" :""
   },
   {
     "id": 30,
     "title": "M. Bing",
-    "isbn": "9782012248069"
+    "isbn": "9782012248069",
+    "url" :""
   },
   {
     "id": 31,
     "title": "M. Bruit",
-    "isbn": "9782012245518"
+    "isbn": "9782012245518",
+    "url" :""
   },
   {
     "id": 32,
     "title": "M. Bruit musicien",
-    "isbn": "9782012248885"
+    "isbn": "9782012248885",
+    "url" :""
   },
   {
     "id": 33,
     "title": "M. Chatouille",
-    "isbn": "9782012248434"
+    "isbn": "9782012248434",
+    "url" :""
   },
   {
     "id": 34,
     "title": "M. Costaud",
-    "isbn": "9782012245525"
+    "isbn": "9782012245525",
+    "url" :""
   },
   {
     "id": 35,
     "title": "M. Courageux",
-    "isbn": "9782012248083"
+    "isbn": "9782012248083",
+    "url" :""
   },
   {
     "id": 36,
     "title": "M. Endormi",
-    "isbn": "9782012248458"
+    "isbn": "9782012248458",
+    "url" :""
   },
   {
     "id": 37,
     "title": "M. Farceur",
-    "isbn": "9782012248090"
+    "isbn": "9782012248090",
+    "url" :""
   },
   {
     "id": 38,
     "title": "M. Farfelu",
-    "isbn": "9782012248106"
+    "isbn": "9782012248106",
+    "url" :""
   },
   {
     "id": 39,
     "title": "M. Formidable",
-    "isbn": "9782013987394"
+    "isbn": "9782013987394",
+    "url" :""
   },
   {
     "id": 40,
     "title": "M. Gentil",
-    "isbn": "9782012248144"
+    "isbn": "9782012248144",
+    "url" :""
   },
   {
     "id": 41,
     "title": "M. Glouton",
-    "isbn": "9782012245532"
+    "isbn": "9782012245532",
+    "url" :""
   },
   {
     "id": 42,
     "title": "M. Glouton est invité à dîner",
-    "isbn": "9782012248946"
+    "isbn": "9782012248946",
+    "url" :""
   },
   {
     "id": 43,
     "title": "M. Grincheux",
-    "isbn": "9782012245556"
+    "isbn": "9782012245556",
+    "url" :""
   },
   {
     "id": 44,
     "title": "M. Grognon",
-    "isbn": "9782012248113"
+    "isbn": "9782012248113",
+    "url" :""
   },
   {
     "id": 45,
     "title": "M. Génial",
-    "isbn": "9782012248571"
+    "isbn": "9782012248571",
+    "url" :""
   },
   {
     "id": 46,
     "title": "M. Heureux",
-    "isbn": "9782012248489"
+    "isbn": "9782012248489",
+    "url" :""
   },
   {
     "id": 47,
     "title": "M. Incroyable",
-    "isbn": "9782012245563"
+    "isbn": "9782012245563",
+    "url" :""
   },
   {
     "id": 48,
     "title": "M. Joyeux",
-    "isbn": "9782012248120"
+    "isbn": "9782012248120",
+    "url" :""
   },
   {
     "id": 49,
     "title": "M. Maigre",
-    "isbn": "9782012248526"
+    "isbn": "9782012248526",
+    "url" :""
   },
   {
     "id": 50,
     "title": "M. Mal Élevé",
-    "isbn": "9782012248588"
+    "isbn": "9782012248588",
+    "url" :""
   },
   {
     "id": 51,
     "title": "M. Maladroit",
-    "isbn": "9782012245587"
+    "isbn": "9782012245587",
+    "url" :""
   },
   {
     "id": 52,
     "title": "M. Malchance",
-    "isbn": "9782012248533"
+    "isbn": "9782012248533",
+    "url" :""
   },
   {
     "id": 53,
     "title": "M. Malchance a perdu la mémoire",
-    "isbn": "9782012271852"
+    "isbn": "9782012271852",
+    "url" :""
   },
   {
     "id": 54,
     "title": "M. Malchance part en vacances",
-    "isbn": "9782012248984"
+    "isbn": "9782012248984",
+    "url" :""
   },
   {
     "id": 55,
     "title": "M. Malin joue au cerf-volant",
-    "isbn": "9782012248991"
+    "isbn": "9782012248991",
+    "url" :""
   },
   {
     "id": 56,
     "title": "M. Malpoli",
-    "isbn": "9782012248137"
+    "isbn": "9782012248137",
+    "url" :""
   },
   {
     "id": 57,
     "title": "M. Neige",
-    "isbn": "9782012248564"
+    "isbn": "9782012248564",
+    "url" :""
   },
   {
     "id": 58,
     "title": "M. Nigaud",
-    "isbn": "9782012245594"
+    "isbn": "9782012245594",
+    "url" :""
   },
   {
     "id": 59,
     "title": "M. Non",
-    "isbn": "9782012248366"
+    "isbn": "9782012248366",
+    "url" :""
   },
   {
     "id": 60,
     "title": "M. Parfait",
-    "isbn": "9782012266872"
+    "isbn": "9782012266872",
+    "url" :""
   },
   {
     "id": 61,
     "title": "M. Petit",
-    "isbn": "9782012248007"
+    "isbn": "9782012248007",
+    "url" :""
   },
   {
     "id": 62,
     "title": "M. Pressé",
-    "isbn": "9782012248014"
+    "isbn": "9782012248014",
+    "url" :""
   },
   {
     "id": 63,
     "title": "M. Rapide",
-    "isbn": "9782012248397"
+    "isbn": "9782012248397",
+    "url" :""
   },
   {
     "id": 64,
     "title": "M. Rigolo",
-    "isbn": "9782012248496"
+    "isbn": "9782012248496",
+    "url" :""
   },
   {
     "id": 65,
     "title": "M. Rêve",
-    "isbn": "9782012248403"
+    "isbn": "9782012248403",
+    "url" :""
   },
   {
     "id": 66,
     "title": "M. Sale",
-    "isbn": "9782012248410"
+    "isbn": "9782012248410",
+    "url" :""
   },
   {
     "id": 67,
     "title": "M. Sale salit tout sur son passage",
-    "isbn": "9782012271876"
+    "isbn": "9782012271876",
+    "url" :""
   },
   {
     "id": 68,
     "title": "M. Silence",
-    "isbn": "9782012248021"
+    "isbn": "9782012248021",
+    "url" :""
   },
   {
     "id": 69,
     "title": "M. Tatillon",
-    "isbn": "9782012248502"
+    "isbn": "9782012248502",
+    "url" :""
   },
   {
     "id": 70,
     "title": "M. Tranquille",
-    "isbn": "9782017129936"
+    "isbn": "9782017129936",
+    "url" :""
   },
   {
     "id": 71,
     "title": "M. À l'Envers",
-    "isbn": "9782012248540"
+    "isbn": "9782012248540",
+    "url" :""
   },
   {
     "id": 72,
     "title": "M. Étonnant",
-    "isbn": "9782012248465"
+    "isbn": "9782012248465",
+    "url" :""
   },
   {
     "id": 73,
     "title": "M. Étourdi",
-    "isbn": "9782012248472"
+    "isbn": "9782012248472",
+    "url" :""
   },
   {
     "id": 74,
     "title": "Mais où étiez-vous, M. Curieux ?",
-    "isbn": "9782012248915"
+    "isbn": "9782012248915",
+    "url" :""
   },
   {
     "id": 75,
     "title": "Merci, M. Chatouille",
-    "isbn": "9782012248892"
+    "isbn": "9782012248892",
+    "url" :""
   },
   {
     "id": 76,
     "title": "Mme Acrobate",
-    "isbn": "9782012248175"
+    "isbn": "9782012248175",
+    "url" :""
   },
   {
     "id": 77,
     "title": "Mme Autoritaire",
-    "isbn": "9782012248335"
+    "isbn": "9782012248335",
+    "url" :""
   },
   {
     "id": 78,
     "title": "Mme Autoritaire sauve le zoo",
-    "isbn": "9782012249042"
+    "isbn": "9782012249042",
+    "url" :""
   },
   {
     "id": 79,
     "title": "Mme Bavarde",
-    "isbn": "9782012248700"
+    "isbn": "9782012248700",
+    "url" :""
   },
   {
     "id": 80,
     "title": "Mme Bonheur",
-    "isbn": "9782012248601"
+    "isbn": "9782012248601",
+    "url" :""
   },
   {
     "id": 81,
     "title": "Mme Boulot",
-    "isbn": "9782012248182"
+    "isbn": "9782012248182",
+    "url" :""
   },
   {
     "id": 82,
     "title": "Mme Boute-En-Train",
-    "isbn": "9782012248199"
+    "isbn": "9782012248199",
+    "url" :""
   },
   {
     "id": 83,
     "title": "Mme Canaille",
-    "isbn": "9782012248618"
+    "isbn": "9782012248618",
+    "url" :""
   },
   {
     "id": 84,
     "title": "Mme Casse-Pieds",
-    "isbn": "9782012248274"
+    "isbn": "9782012248274",
+    "url" :""
   },
   {
     "id": 85,
     "title": "Mme Catastrophe",
-    "isbn": "9782012248625"
+    "isbn": "9782012248625",
+    "url" :""
   },
   {
     "id": 86,
     "title": "Mme Catastrophe fait du bricolage",
-    "isbn": "9782012271791"
+    "isbn": "9782012271791",
+    "url" :""
   },
   {
     "id": 87,
     "title": "Mme Catastrophe à la fête foraine",
-    "isbn": "9782012249073"
+    "isbn": "9782012249073",
+    "url" :""
   },
   {
     "id": 88,
     "title": "Mme Chipie change de couleur",
-    "isbn": "9782012249097"
+    "isbn": "9782012249097",
+    "url" :""
   },
   {
     "id": 89,
     "title": "Mme Chipie cherche les ennuis",
-    "isbn": "9782012271821"
+    "isbn": "9782012271821",
+    "url" :""
   },
   {
     "id": 90,
     "title": "Mme Contraire fait tout de travers",
-    "isbn": "9782012200975"
+    "isbn": "9782012200975",
+    "url" :""
   },
   {
     "id": 91,
     "title": "Mme Coquette",
-    "isbn": "9782012248205"
+    "isbn": "9782012248205",
+    "url" :""
   },
   {
     "id": 92,
     "title": "Mme Courage",
-    "isbn": "9782017129943"
+    "isbn": "9782017129943",
+    "url" :""
   },
   {
     "id": 93,
     "title": "Mme Câlin",
-    "isbn": "9782012206007"
+    "isbn": "9782012206007",
+    "url" :""
   },
   {
     "id": 94,
     "title": "Mme Dodue",
-    "isbn": "9782012248649"
+    "isbn": "9782012248649",
+    "url" :""
   },
   {
     "id": 95,
     "title": "Mme Dodue, la plus nelle pour aller danser",
-    "isbn": "9782012251861"
+    "isbn": "9782012251861",
+    "url" :""
   },
   {
     "id": 96,
     "title": "Mme Double",
-    "isbn": "9782012248731"
+    "isbn": "9782012248731",
+    "url" :""
   },
   {
     "id": 97,
     "title": "Mme En retard rattrape son retard",
-    "isbn": "9782012251878"
+    "isbn": "9782012251878",
+    "url" :""
   },
   {
     "id": 98,
     "title": "Mme Fabuleuse",
-    "isbn": "9782013987455"
+    "isbn": "9782013987455",
+    "url" :""
   },
   {
     "id": 99,
     "title": "Mme Farceuse",
-    "isbn": "9782012248151"
+    "isbn": "9782012248151",
+    "url" :""
   },
   {
     "id": 100,
     "title": "Mme Follette",
-    "isbn": "9782012248748"
+    "isbn": "9782012248748",
+    "url" :""
   },
   {
     "id": 101,
     "title": "Mme Géniale",
-    "isbn": "9782012248281"
+    "isbn": "9782012248281",
+    "url" :""
   },
   {
     "id": 102,
     "title": "Mme Indécise",
-    "isbn": "9782012248755"
+    "isbn": "9782012248755",
+    "url" :""
   },
   {
     "id": 103,
     "title": "Mme Invention",
-    "isbn": "9782012249646"
+    "isbn": "9782012249646",
+    "url" :""
   },
   {
     "id": 104,
     "title": "Mme Je-Sais-Tout",
-    "isbn": "9782012248298"
+    "isbn": "9782012248298",
+    "url" :""
   },
   {
     "id": 105,
     "title": "Mme Lumineuse",
-    "isbn": "9782012042704"
+    "isbn": "9782012042704",
+    "url" :""
   },
   {
     "id": 106,
     "title": "Mme Magie",
-    "isbn": "9782012248663"
+    "isbn": "9782012248663",
+    "url" :""
   },
   {
     "id": 107,
     "title": "Mme Magie à la rescousse",
-    "isbn": "9782012251885"
+    "isbn": "9782012251885",
+    "url" :""
   },
   {
     "id": 108,
     "title": "Mme Malchance",
-    "isbn": "9782012248168"
+    "isbn": "9782012248168",
+    "url" :""
   },
   {
     "id": 109,
     "title": "Mme Oui",
-    "isbn": "9782012248304"
+    "isbn": "9782012248304",
+    "url" :""
   },
   {
     "id": 110,
     "title": "Mme Pourquoi",
-    "isbn": "9782012248212"
+    "isbn": "9782012248212",
+    "url" :""
   },
   {
     "id": 111,
     "title": "Mme Princesse",
-    "isbn": "9782012266964"
+    "isbn": "9782012266964",
+    "url" :""
   },
   {
     "id": 112,
     "title": "Mme Proprette",
-    "isbn": "9782012248762"
+    "isbn": "9782012248762",
+    "url" :""
   },
   {
     "id": 113,
     "title": "Mme Proprette contre les tâches",
-    "isbn": "9782012251908"
+    "isbn": "9782012251908",
+    "url" :""
   },
   {
     "id": 114,
     "title": "Mme Proprette déteste l'automne",
-    "isbn": "9782012271838"
+    "isbn": "9782012271838",
+    "url" :""
   },
   {
     "id": 115,
     "title": "Mme Prudente",
-    "isbn": "9782012248229"
+    "isbn": "9782012248229",
+    "url" :""
   },
   {
     "id": 116,
     "title": "Mme Range-Tout",
-    "isbn": "9782012248236"
+    "isbn": "9782012248236",
+    "url" :""
   },
   {
     "id": 117,
     "title": "Mme Terreur",
-    "isbn": "9782012248595"
+    "isbn": "9782012248595",
+    "url" :""
   },
   {
     "id": 118,
     "title": "Mme Timide",
-    "isbn": "9782012248694"
+    "isbn": "9782012248694",
+    "url" :""
   },
   {
     "id": 119,
     "title": "Mme Tintamarre",
-    "isbn": "9782012248250"
+    "isbn": "9782012248250",
+    "url" :""
   },
   {
     "id": 120,
     "title": "Mme Tête-en-l'air",
-    "isbn": "9782012248687"
+    "isbn": "9782012248687",
+    "url" :""
   },
   {
     "id": 121,
     "title": "Mme Tête-en-l'air part à la mer",
-    "isbn": "9782012271845"
+    "isbn": "9782012271845",
+    "url" :""
   },
   {
     "id": 122,
     "title": "Mme Tête-en-l'air sème la pagaille",
-    "isbn": "9782012251939"
+    "isbn": "9782012251939",
+    "url" :""
   },
   {
     "id": 123,
     "title": "Mme Têtue",
-    "isbn": "9782012248311"
+    "isbn": "9782012248311",
+    "url" :""
   },
   {
     "id": 124,
     "title": "Mme Têtue va jusqu'au bout",
-    "isbn": "9782012251946"
+    "isbn": "9782012251946",
+    "url" :""
   },
   {
     "id": 125,
     "title": "Mme Vedette",
-    "isbn": "9782012248786"
+    "isbn": "9782012248786",
+    "url" :""
   },
   {
     "id": 126,
@@ -635,82 +758,98 @@
   {
     "id": 127,
     "title": "Mon coffret Monsieur Madame",
-    "isbn": "9782013987622"
+    "isbn": "9782013987622",
+    "url" :""
   },
   {
     "id": 128,
     "title": "Monsieur Madame : coffret collector",
-    "isbn": "9782013987523"
+    "isbn": "9782013987523",
+    "url" :""
   },
   {
     "id": 129,
     "title": "Monsieur Madame : coffret collector 2",
-    "isbn": "9782013987615"
+    "isbn": "9782013987615",
+    "url" :""
   },
   {
     "id": 130,
     "title": "Quel réconfort, Mme Bonheur !",
-    "isbn": "9782012249066"
+    "isbn": "9782012249066",
+    "url" :""
   },
   {
     "id": 131,
     "title": "Quelle farceuse, Mme Canaille",
-    "isbn": "9782012271784"
+    "isbn": "9782012271784",
+    "url" :""
   },
   {
     "id": 132,
     "title": "Soyez polie, Mme Autoritaire",
-    "isbn": "9782012271777"
+    "isbn": "9782012271777",
+    "url" :""
   },
   {
     "id": 133,
     "title": "Un dimanche inoubliable pour Mme Petite",
-    "isbn": "9782012251892"
+    "isbn": "9782012251892",
+    "url" :""
   },
   {
     "id": 134,
     "title": "Un problème, M. Chatouille",
-    "isbn": "9782012271746"
+    "isbn": "9782012271746",
+    "url" :""
   },
   {
     "id": 135,
     "title": "Un travail pour Mme Risette",
-    "isbn": "9782012251915"
+    "isbn": "9782012251915",
+    "url" :""
   },
   {
     "id": 136,
     "title": "Une bonne pêche pour M. Méli-Mélo",
-    "isbn": "9782012249004"
+    "isbn": "9782012249004",
+    "url" :""
   },
   {
     "id": 137,
     "title": "Une inondation chez M. Costaud",
-    "isbn": "9782012200838"
+    "isbn": "9782012200838",
+    "url" :""
   },
   {
     "id": 138,
     "title": "Une passion pour M. Heureux",
-    "isbn": "9782012271760"
+    "isbn": "9782012271760",
+    "url" :""
   },
   {
     "id": 139,
     "title": "Une surprise pour M. Curieux",
-    "isbn": "9782012200937"
+    "isbn": "9782012200937",
+    "url" :""
   },
   {
     "id": 140,
     "title": "Une surprise pour M. Grand",
-    "isbn": "9782012248953"
+    "isbn": "9782012248953",
+    "url" :""
   },
   {
     "id": 141,
     "title": "Une vue imprenable pour Mme Beauté",
-    "isbn": "9782012200869"
+    "isbn": "9782012200869",
+    "url" :""
   },
   {
     "id": 142,
     "title": "Écoutez les bons conseils, Mme Têtue",
-    "isbn": "9782012200883"
+    "isbn": "9782012200883",
+    "url" :""
   }
 ]
 }
