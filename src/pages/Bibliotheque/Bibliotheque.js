@@ -1,27 +1,24 @@
+import { useEffect, useState } from "react";
 import "./style.css";
 
-//liste des livres
-const books = [
-  {
-    id: 1,
-    title: "Au boulot. M. Costaud",
-    isbn: "9782012248908",
-    url: "https://res.cloudinary.com/dst61tkcz/image/upload/v1767881365/monsieur_madame/9782012248908_z8n3he.webp",
-  },
-  {
-    id: 2,
-    title: "Be... Be... Bonjour, Mme Timide",
-    isbn: "9782012251953",
-    url: "https://res.cloudinary.com/dst61tkcz/image/upload/v1767881363/monsieur_madame/9782012251953_hkzssm.webp",
-  },
-];
-
+//affiche la bibliotheque
 export default function Bibliotheque() {
+  const [books, setBooks] = useState([]);
+
+  useEffect(() => {
+    fetch("catalogue.json")
+      .then((response) => response.json())
+      .then((data) => {
+        setBooks(Array.isArray(data) ? data : (data.titles ?? []));
+  })
+  .catch((err) => console.error("Erreur chargement catalogue:", err));
+ }, []);
+
   return (
     <div className="header-bibliotheque">
-      <h1 className="bibliotheque-title">Mes Collections</h1>
-
+      <h1 className="bibliotheque-title">Bibliotheque</h1>
       <div className="biblio-grid">
+        {" "}
         {books.map((book) => (
           <div className="biblio-card" key={book.id}>
             <img
@@ -29,14 +26,18 @@ export default function Bibliotheque() {
               src={book.url}
               alt={book.title}
               loading="lazy"
+               onError={(e) => {
+    e.currentTarget.src = "/placeholder-cover.webp";
+  }}
             />
-
             <div className="biblio-card-title">{book.title}</div>
-
             <div className="biblio-card-isbn">ISBN : {book.isbn}</div>
           </div>
         ))}
+        
       </div>
     </div>
   );
 }
+
+
