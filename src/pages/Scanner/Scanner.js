@@ -1,6 +1,9 @@
 import { useEffect, useMemo, useState } from "react";
 
-import { loadCatalogue, findBookByIsbn } from "../../services/catalogue.service";
+import {
+  loadCatalogue,
+  findBookByIsbn,
+} from "../../services/catalogue.service";
 import "./style.css";
 import { startBarcodeScanner } from "../../services/barcodescanner.service";
 
@@ -48,9 +51,11 @@ export default function Scanner() {
 
   const status = useMemo(() => {
     if (error) return { type: "error", text: error };
-    if (isScanning) return { type: "info", text: "Caméra en cours… Scanne un code-barres." };
+    if (isScanning)
+      return { type: "info", text: "Caméra en cours… Scanne un code-barres." };
     if (!scannedCode) return { type: "info", text: "Aucun scan." };
-    if (!foundBook) return { type: "warn", text: "Livre non trouvé dans le catalogue." };
+    if (!foundBook)
+      return { type: "warn", text: "Livre non trouvé dans le catalogue." };
     return { type: "success", text: "Livre trouvé !" };
   }, [error, isScanning, scannedCode, foundBook]);
 
@@ -71,7 +76,9 @@ export default function Scanner() {
 
       {!isScanning && scannedCode && (
         <div className="scanner-result">
-          <div className="scanner-code">ISBN / EAN : <strong>{scannedCode}</strong></div>
+          <div className="scanner-code">
+            ISBN / EAN : <strong>{scannedCode}</strong>
+          </div>
 
           {foundBook ? (
             <div className="scanner-book">
@@ -91,7 +98,8 @@ export default function Scanner() {
             </div>
           ) : (
             <div className="scanner-hint">
-              Tu peux l’ajouter au catalogue plus tard (ou enrichir automatiquement via une API).
+              Tu peux l’ajouter au catalogue plus tard (ou enrichir
+              automatiquement via une API).
             </div>
           )}
 
