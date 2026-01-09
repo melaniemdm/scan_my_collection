@@ -1,0 +1,80 @@
+.scanner-page {
+  min-height: 100vh;
+  padding: 50px 30px;
+  background: radial-gradient(circle at top, #1c1c1c, #0d0d0d);
+  color: #fff;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.scanner-title {
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+
+.scanner-reader {
+  margin: 24px auto;
+  max-width: 420px;
+}
+
+.scanner-status {
+  margin: 0 auto 18px;
+  max-width: 520px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.15);
+  background: rgba(255,255,255,0.06);
+}
+
+.scanner-status.success { border-color: rgba(60, 255, 140, 0.35); }
+.scanner-status.warn { border-color: rgba(255, 200, 60, 0.35); }
+.scanner-status.error { border-color: rgba(255, 90, 90, 0.45); }
+
+.scanner-result {
+  margin: 20px auto 0;
+  max-width: 720px;
+}
+
+.scanner-book {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  margin: 18px auto;
+  padding: 16px;
+  border-radius: 16px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.12);
+}
+
+.scanner-cover {
+  width: 90px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.scanner-book-title {
+  font-size: 1.05rem;
+  letter-spacing: 0.06em;
+}
+
+.scanner-book-isbn {
+  margin-top: 6px;
+  opacity: 0.8;
+}
+
+.scanner-btn {
+  margin-top: 14px;
+  padding: 12px 18px;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: rgba(255,255,255,0.08);
+  color: #fff;
+  cursor: pointer;
+}
+
+.scanner-btn:hover {
+  background: rgba(255,255,255,0.14);
+}

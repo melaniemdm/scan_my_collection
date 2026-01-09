@@ -1,17 +1,11 @@
-import { Link } from "react-router-dom";
+
 import Card from "../../components/card/card";
 import "./style.css";
-import { FaArrowLeft } from "react-icons/fa";
-
+import HeaderNav from "../../components/herder-nav/headerNav";
 export default function Collection() {
   return (
     <div className="header-collection">
-      <Link to="/" className="back-link">
-      <FaArrowLeft style={{ color: "#fafafa", marginRight: "10px" }} />
-        Accueil
-      </Link>
-     
-
+     <HeaderNav/>
       <h1 className="collection-title">Mes Collections</h1>
 
       <Card />
