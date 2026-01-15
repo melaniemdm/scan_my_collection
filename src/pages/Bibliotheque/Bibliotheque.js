@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import "./style.css";
 import HeaderNav from "../../components/header-nav/headerNav";
+import Items from "../../components/items/items";
 
 //affiche la bibliotheque
 export default function Bibliotheque() {
@@ -21,21 +22,9 @@ export default function Bibliotheque() {
       <h1 className="bibliotheque-title">Bibliotheque</h1>
 
       <div className="biblio-grid">
-        {" "}
+      
         {books.map((book) => (
-          <div className="biblio-card" key={book.id}>
-            <img
-              className="biblio-card-couverture"
-              src={book.url}
-              alt={book.title}
-              loading="lazy"
-              onError={(e) => {
-                e.currentTarget.src = "/placeholder-cover.webp";
-              }}
-            />
-            <div className="biblio-card-title">{book.title}</div>
-            <div className="biblio-card-isbn">ISBN : {book.isbn}</div>
-          </div>
+          <Items key={book.id} book={book} />
         ))}
       </div>
     </div>
