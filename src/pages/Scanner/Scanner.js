@@ -6,6 +6,8 @@ import {
 } from "../../services/catalogue.service";
 import "./style.css";
 import { startBarcodeScanner } from "../../services/barcodescanner.service";
+import { useNavigate } from "react-router-dom";
+import { addOwnedIsbn } from "../../services/collection.service";
 
 export default function Scanner() {
   const [catalogue, setCatalogue] = useState([]);
@@ -13,6 +15,7 @@ export default function Scanner() {
   const [foundBook, setFoundBook] = useState(null);
   const [error, setError] = useState(null);
   const [isScanning, setIsScanning] = useState(true);
+  const navigate = useNavigate();
 
   // charge le catalogue une fois
   useEffect(() => {
@@ -27,6 +30,12 @@ export default function Scanner() {
     const book = findBookByIsbn(catalogue, scannedCode);
     setFoundBook(book);
   }, [scannedCode, catalogue]);
+
+  const handleAddToCollection = () => {
+    if (!foundBook) return;
+    addOwnedIsbn(foundBook.isbn);
+    navigate("/collection"); // ou "/bibliotheque" selon ta page collection
+  };
 
   // démarrage/arrêt du scanner
   useEffect(() => {
@@ -102,6 +111,11 @@ export default function Scanner() {
               automatiquement via une API).
             </div>
           )}
+          
+            <button className="scanner-btn" onClick={handleAddToCollection}>
+              Ajouter à ma collection
+            </button>
+          
 
           <button className="scanner-btn" onClick={restart}>
             Scanner un autre livre

@@ -24,6 +24,7 @@ export default function Bibliotheque() {
       <div className="biblio-grid">
       
         {books.map((book) => (
+          
           <Items key={book.id} book={book} />
         ))}
       </div>
