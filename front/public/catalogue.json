@@ -1,0 +1,858 @@
+{
+  "series": "Monsieur Madame",
+  "language": "fr",
+  "titles": [
+  {
+    "id": 1,
+    "title": "Au boulot. M. Costaud",
+    "isbn": "9782012248908",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767881365/monsieur_madame/9782012248908_z8n3he.webp "
+  },
+  {
+    "id": 2,
+    "title": "Be... Be... Bonjour, Mme Timide",
+    "isbn": "9782012251953",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767881363/monsieur_madame/9782012251953_hkzssm.webp"
+  },
+  {
+    "id": 3,
+    "title": "Bienvenue chez Mme Contraire",
+    "isbn": "9782012251854",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949033/monsieur_madame/9782012251854_yutodl.webp"
+  },
+  {
+    "id": 4,
+    "title": "Coffret collector Monsieur Madame",
+    "isbn": "9782012261099",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949060/monsieur_madame/9782012261099_wanvps.webp"
+  },
+  {
+    "id": 5,
+    "title": "Coffret Monsieur Madame",
+    "isbn": "9782013987639",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949102/monsieur_madame/9782013987639_evbjvx.webp"
+  },
+  {
+    "id": 6,
+    "title": "Heureusement que M. Lent est là",
+    "isbn": "9782012248977",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949007/monsieur_madame/9782012248977_gwpkq1.webp"
+  },
+  {
+    "id": 7,
+    "title": "Joyeux Noël, M. Inquiet !",
+    "isbn": "9782012248960",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949007/monsieur_madame/9782012248960_qg1fq2.webp"
+  },
+  {
+    "id": 8,
+    "title": "L'ami de Mme Chance",
+    "isbn": "9782012249080",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949027/monsieur_madame/9782012249080_dtzgfb.webp"
+  },
+  {
+    "id": 9,
+    "title": "L'incroyable secret de M. Étonnant",
+    "isbn": "9782012248922",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948997/monsieur_madame/9782012248922_xdqdmi.webp"
+  },
+  {
+    "id": 10,
+    "title": "L'irrésistible M. Rigolo",
+    "isbn": "9782012200852",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948845/monsieur_madame/9782012200852_wzdh0w.webp"
+  },
+  {
+    "id": 11,
+    "title": "L'étonnant fou rire de M. Étonnant",
+    "isbn": "9782012200845",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948844/monsieur_madame/9782012200845_seyebf.webp"
+  },
+  {
+    "id": 12,
+    "title": "L'étonnant talent de M. Glouton",
+    "isbn": "9782012200920",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948850/monsieur_madame/9782012200920_dtacmf.webp"
+  },
+  {
+    "id": 13,
+    "title": "L'étrange mal de M. Bizarre",
+    "isbn": "9782012248878",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948989/monsieur_madame/9782012248878_rz1aoo.webp"
+  },
+  {
+    "id": 14,
+    "title": "La bonne action de M. Avare",
+    "isbn": "9782012248854",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948985/monsieur_madame/9782012248854_sqysfw.webp"
+  },
+  {
+    "id": 15,
+    "title": "La folle journée de Mme Sage",
+    "isbn": "9782012251922",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949047/monsieur_madame/9782012251922_tp8w3q.webp"
+  },
+  {
+    "id": 16,
+    "title": "La folle promenade de Mme Follette",
+    "isbn": "9782012200876",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948847/monsieur_madame/9782012200876_hwblus.webp"
+  },
+  {
+    "id": 17,
+    "title": "La grande aventure de Mme Petite",
+    "isbn": "9782012200968",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948853/monsieur_madame/9782012200968_qb9ruz.webp"
+  },
+  {
+    "id": 18,
+    "title": "La grande journée de M. Petit",
+    "isbn": "9782012271869",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949084/monsieur_madame/9782012271869_szb7hi.webp"
+  },
+  {
+    "id": 19,
+    "title": "La rivale de Mme Acrobate",
+    "isbn": "9782012249035",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949016/monsieur_madame/9782012249035_iqcjw3.webp"
+  },
+  {
+    "id": 20,
+    "title": "Le cadeau de Mme Beauté",
+    "isbn": "9782012249059",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949022/monsieur_madame/9782012249059_cnha1z.webp"
+  },
+  {
+    "id": 21,
+    "title": "Le courage de M. Peureux",
+    "isbn": "9782012249028",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949016/monsieur_madame/9782012249028_wi43po.webp"
+  },
+  {
+    "id": 22,
+    "title": "Le Grand Livre des Monsieur Madame",
+    "isbn": "9782012252097",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949056/monsieur_madame/9782012252097_oeiyie.webp"
+  },
+  {
+    "id": 23,
+    "title": "Le grand rêve de M. Petit",
+    "isbn": "9782012249011",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949012/monsieur_madame/9782012249011_cdczt1.webp"
+  },
+  {
+    "id": 24,
+    "title": "Le perroquet de M. Bavard",
+    "isbn": "9782012248861",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948986/monsieur_madame/9782012248861_vmh5dm.webp"
+  },
+  {
+    "id": 25,
+    "title": "Les talents d'artiste de M. Farceur",
+    "isbn": "9782012248939",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949001/monsieur_madame/9782012248939_kgbcmq.webp"
+  },
+  {
+    "id": 26,
+    "title": "M. Atchoum",
+    "isbn": "9782012248038",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767947070/monsieur_madame/9782012248038_qhn1as.webp"
+  },
+  {
+    "id": 27,
+    "title": "M. Aventure",
+    "isbn": "9782012042636",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948842/monsieur_madame/9782012042636_aybtfn.webp"
+  },
+  {
+    "id": 28,
+    "title": "M. Bagarreur",
+    "isbn": "9782012248052",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948871/monsieur_madame/9782012248052_ena4m4.webp"
+  },
+  {
+    "id": 29,
+    "title": "M. Bavard",
+    "isbn": "9782012248427",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948926/monsieur_madame/9782012248427_znaj0j.webp"
+  },
+  {
+    "id": 30,
+    "title": "M. Bing",
+    "isbn": "9782012248069",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948874/monsieur_madame/9782012248069_setpvu.webp"
+  },
+  {
+    "id": 31,
+    "title": "M. Bruit",
+    "isbn": "9782012245518",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948856/monsieur_madame/9782012245518_qzhidh.webp"
+  },
+  {
+    "id": 32,
+    "title": "M. Bruit musicien",
+    "isbn": "9782012248885",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948990/monsieur_madame/9782012248885_eh0hwm.webp"
+  },
+  {
+    "id": 33,
+    "title": "M. Chatouille",
+    "isbn": "9782012248434",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948927/monsieur_madame/9782012248434_zl1udr.webp"
+  },
+  {
+    "id": 34,
+    "title": "M. Costaud",
+    "isbn": "9782012245525",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948857/monsieur_madame/9782012245525_amvkfk.webp"
+  },
+  {
+    "id": 35,
+    "title": "M. Courageux",
+    "isbn": "9782012248083",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948875/monsieur_madame/9782012248083_ywveiv.webp"
+  },
+  {
+    "id": 36,
+    "title": "M. Endormi",
+    "isbn": "9782012248458",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948930/monsieur_madame/9782012248458_ry5ui1.webp"
+  },
+  {
+    "id": 37,
+    "title": "M. Farceur",
+    "isbn": "9782012248090",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948878/monsieur_madame/9782012248090_dhkexh.webp"
+  },
+  {
+    "id": 38,
+    "title": "M. Farfelu",
+    "isbn": "9782012248106",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948881/monsieur_madame/9782012248106_i7dgim.webp"
+  },
+  {
+    "id": 39,
+    "title": "M. Formidable",
+    "isbn": "9782013987394",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949089/monsieur_madame/9782013987394_mpmfym.webp"
+  },
+  {
+    "id": 40,
+    "title": "M. Gentil",
+    "isbn": "9782012248144",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948888/monsieur_madame/9782012248144_ujo7ak.webp"
+  },
+  {
+    "id": 41,
+    "title": "M. Glouton",
+    "isbn": "9782012245532",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948858/monsieur_madame/9782012245532_jttzhd.webp"
+  },
+  {
+    "id": 42,
+    "title": "M. Glouton est invité à dîner",
+    "isbn": "9782012248946",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949001/monsieur_madame/9782012248946_cv9nb4.webp"
+  },
+  {
+    "id": 43,
+    "title": "M. Grincheux",
+    "isbn": "9782012245556",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948859/monsieur_madame/9782012245556_d2xzc8.webp"
+  },
+  {
+    "id": 44,
+    "title": "M. Grognon",
+    "isbn": "9782012248113",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948881/monsieur_madame/9782012248113_hnccp5.webp"
+  },
+  {
+    "id": 45,
+    "title": "M. Génial",
+    "isbn": "9782012248571",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948948/monsieur_madame/9782012248571_xbexh7.webp"
+  },
+  {
+    "id": 46,
+    "title": "M. Heureux",
+    "isbn": "9782012248489",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948934/monsieur_madame/9782012248489_dimhc7.webp"
+  },
+  {
+    "id": 47,
+    "title": "M. Incroyable",
+    "isbn": "9782012245563",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948860/monsieur_madame/9782012245563_j8hsrb.webp"
+  },
+  {
+    "id": 48,
+    "title": "M. Joyeux",
+    "isbn": "9782012248120",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948885/monsieur_madame/9782012248120_n6ryq6.webp"
+  },
+  {
+    "id": 49,
+    "title": "M. Maigre",
+    "isbn": "9782012248526",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948940/monsieur_madame/9782012248526_xsk8kf.webp"
+  },
+  {
+    "id": 50,
+    "title": "M. Mal Élevé",
+    "isbn": "9782012248588",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948948/monsieur_madame/9782012248588_yf7efb.webp"
+  },
+  {
+    "id": 51,
+    "title": "M. Maladroit",
+    "isbn": "9782012245587",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948862/monsieur_madame/9782012245587_pqzgof.webp"
+  },
+  {
+    "id": 52,
+    "title": "M. Malchance",
+    "isbn": "9782012248533",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948942/monsieur_madame/9782012248533_k0emwx.webp"
+  },
+  {
+    "id": 53,
+    "title": "M. Malchance a perdu la mémoire",
+    "isbn": "9782012271852",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949084/monsieur_madame/9782012271852_ycf1m3.webp"
+  },
+  {
+    "id": 54,
+    "title": "M. Malchance part en vacances",
+    "isbn": "9782012248984",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767963943/monsieur_madame/9782012248984_avx6bi.webp"
+  },
+  {
+    "id": 55,
+    "title": "M. Malin joue au cerf-volant",
+    "isbn": "9782012248991",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949008/monsieur_madame/9782012248991_bqrdqn.webp"
+  },
+  {
+    "id": 56,
+    "title": "M. Malpoli",
+    "isbn": "9782012248137",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948886/monsieur_madame/9782012248137_x67lnb.webp"
+  },
+  {
+    "id": 57,
+    "title": "M. Neige",
+    "isbn": "9782012248564",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948944/monsieur_madame/9782012248564_q5tfac.webp"
+  },
+  {
+    "id": 58,
+    "title": "M. Nigaud",
+    "isbn": "9782012245594",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948864/monsieur_madame/9782012245594_givdsn.webp"
+  },
+  {
+    "id": 59,
+    "title": "M. Non",
+    "isbn": "9782012248366",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948918/monsieur_madame/9782012248366_j7roq9.webp"
+  },
+  {
+    "id": 60,
+    "title": "M. Personne",
+    "isbn": "9782012266872",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949060/monsieur_madame/9782012266872_lrp051.webp"
+  },
+  {
+    "id": 61,
+    "title": "M. Petit",
+    "isbn": "9782012248007",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948865/monsieur_madame/9782012248007_qkhn6a.webp"
+  },
+  {
+    "id": 62,
+    "title": "M. Pressé",
+    "isbn": "9782012248014",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948867/monsieur_madame/9782012248014_nikw6v.webp"
+  },
+  {
+    "id": 63,
+    "title": "M. Rapide",
+    "isbn": "9782012248397",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948919/monsieur_madame/9782012248397_v6plod.webp"
+  },
+  {
+    "id": 64,
+    "title": "M. Rigolo",
+    "isbn": "9782012248496",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948937/monsieur_madame/9782012248496_dun8f7.webp"
+  },
+  {
+    "id": 65,
+    "title": "M. Rêve",
+    "isbn": "9782012248403",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948922/monsieur_madame/9782012248403_w3nmb5.webp"
+  },
+  {
+    "id": 66,
+    "title": "M. Sale",
+    "isbn": "9782012248410",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948923/monsieur_madame/9782012248410_tnajmq.webp"
+  },
+  {
+    "id": 67,
+    "title": "M. Sale salit tout sur son passage",
+    "isbn": "9782012271876",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949089/monsieur_madame/9782012271876_zvfgca.webp"
+  },
+  {
+    "id": 68,
+    "title": "M. Silence",
+    "isbn": "9782012248021",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948868/monsieur_madame/9782012248021_ruzej9.webp"
+  },
+  {
+    "id": 69,
+    "title": "M. Tatillon",
+    "isbn": "9782012248502",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948937/monsieur_madame/9782012248502_ljudic.webp"
+  },
+  {
+    "id": 70,
+    "title": "M. Tranquille",
+    "isbn": "9782017129936",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949103/monsieur_madame/9782017129936_fnp3ml.webp"
+  },
+  {
+    "id": 71,
+    "title": "M. À l'Envers",
+    "isbn": "9782012248540",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948943/monsieur_madame/9782012248540_i63uuk.webp"
+  },
+  {
+    "id": 72,
+    "title": "M. Étonnant",
+    "isbn": "9782012248465",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948930/monsieur_madame/9782012248465_jythkd.webp"
+  },
+  {
+    "id": 73,
+    "title": "M. Étourdi",
+    "isbn": "9782012248472",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948934/monsieur_madame/9782012248472_aimrfw.webp"
+  },
+  {
+    "id": 74,
+    "title": "Mais où étiez-vous, M. Curieux ?",
+    "isbn": "9782012248915",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948997/monsieur_madame/9782012248915_kshndm.webp"
+  },
+  {
+    "id": 75,
+    "title": "Merci, M. Chatouille",
+    "isbn": "9782012248892",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948993/monsieur_madame/9782012248892_jbogol.webp"
+  },
+  {
+    "id": 76,
+    "title": "Mme Acrobate",
+    "isbn": "9782012248175",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948894/monsieur_madame/9782012248175_obeqac.webp"
+  },
+  {
+    "id": 77,
+    "title": "Mme Autoritaire",
+    "isbn": "9782012248335",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948916/monsieur_madame/9782012248335_olheuo.webp"
+  },
+  {
+    "id": 78,
+    "title": "Mme Autoritaire sauve le zoo",
+    "isbn": "9782012249042",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949020/monsieur_madame/9782012249042_r4xd7b.webp"
+  },
+  {
+    "id": 79,
+    "title": "Mme Bavarde",
+    "isbn": "9782012248700",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948972/monsieur_madame/9782012248700_nuxfmn.webp"
+  },
+  {
+    "id": 80,
+    "title": "Mme Bonheur",
+    "isbn": "9782012248601",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948959/monsieur_madame/9782012248601_omyf6t.webp"
+  },
+  {
+    "id": 81,
+    "title": "Mme Boulot",
+    "isbn": "9782012248182",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948895/monsieur_madame/9782012248182_fb9b8z.webp"
+  },
+  {
+    "id": 82,
+    "title": "Mme Boute-En-Train",
+    "isbn": "9782012248199",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948898/monsieur_madame/9782012248199_wzform.webp"
+  },
+  {
+    "id": 83,
+    "title": "Mme Canaille",
+    "isbn": "9782012248618",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948959/monsieur_madame/9782012248618_xla7uj.webp"
+  },
+  {
+    "id": 84,
+    "title": "Mme Casse-Pieds",
+    "isbn": "9782012248274",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767964122/monsieur_madame/9782012248274_vynbcz.webp"
+  },
+  {
+    "id": 85,
+    "title": "Mme Catastrophe",
+    "isbn": "9782012248625",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948962/monsieur_madame/9782012248625_zsx9fu.webp"
+  },
+  {
+    "id": 86,
+    "title": "Mme Catastrophe reine du bricolage",
+    "isbn": "9782012271791",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949074/monsieur_madame/9782012271791_vl0vgu.webp"
+  },
+  {
+    "id": 87,
+    "title": "Mme Catastrophe à la fête foraine",
+    "isbn": "9782012249073",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949026/monsieur_madame/9782012249073_dxyqfv.webp"
+  },
+  {
+    "id": 88,
+    "title": "Mme Chipie change de couleur",
+    "isbn": "9782012249097",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949029/monsieur_madame/9782012249097_lfsnt7.webp"
+  },
+  {
+    "id": 89,
+    "title": "Mme Chipie cherche les ennuis",
+    "isbn": "9782012271821",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949074/monsieur_madame/9782012271821_udzqrk.webp"
+  },
+  {
+    "id": 90,
+    "title": "Mme Contraire fait tout de travers",
+    "isbn": "9782012200975",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948853/monsieur_madame/9782012200975_iuo2x3.webp"
+  },
+  {
+    "id": 91,
+    "title": "Mme Coquette",
+    "isbn": "9782012248205",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948898/monsieur_madame/9782012248205_svk6dd.webp"
+  },
+  {
+    "id": 92,
+    "title": "Mme Courage",
+    "isbn": "9782017129943",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949107/monsieur_madame/9782017129943_epjylt.webp"
+  },
+  {
+    "id": 93,
+    "title": "Mme Câlin",
+    "isbn": "9782012206007",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948854/monsieur_madame/9782012206007_rtes2j.webp"
+  },
+  {
+    "id": 94,
+    "title": "Mme Dodue",
+    "isbn": "9782012248649",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948965/monsieur_madame/9782012248649_havdwt.webp"
+  },
+  {
+    "id": 95,
+    "title": "Mme Dodue, la plus nelle pour aller danser",
+    "isbn": "9782012251861",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949034/monsieur_madame/9782012251861_nwbqef.webp"
+  },
+  {
+    "id": 96,
+    "title": "Mme Double",
+    "isbn": "9782012248731",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948974/monsieur_madame/9782012248731_hixvaj.webp"
+  },
+  {
+    "id": 97,
+    "title": "Mme En retard rattrape son retard",
+    "isbn": "9782012251878",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949038/monsieur_madame/9782012251878_ieritt.webp"
+  },
+  {
+    "id": 98,
+    "title": "Mme Fabuleuse",
+    "isbn": "9782013987455",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949093/monsieur_madame/9782013987455_auklhj.webp"
+  },
+  {
+    "id": 99,
+    "title": "Mme Farceuse",
+    "isbn": "9782012248151",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948890/monsieur_madame/9782012248151_q6u8xv.webp"
+  },
+  {
+    "id": 100,
+    "title": "Mme Follette",
+    "isbn": "9782012248748",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948977/monsieur_madame/9782012248748_kya9s5.webp"
+  },
+  {
+    "id": 101,
+    "title": "Mme Géniale",
+    "isbn": "9782012248281",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948909/monsieur_madame/9782012248281_mqxu7l.webp"
+  },
+  {
+    "id": 102,
+    "title": "Mme Indécise",
+    "isbn": "9782012248755",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948977/monsieur_madame/9782012248755_fbvgs0.webp"
+  },
+  {
+    "id": 103,
+    "title": "Mme Invention",
+    "isbn": "9782012249646",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949031/monsieur_madame/9782012249646_bezg3e.webp"
+  },
+  {
+    "id": 104,
+    "title": "Mme Je-Sais-Tout",
+    "isbn": "9782012248298",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948910/monsieur_madame/9782012248298_gxfe8y.webp"
+  },
+  {
+    "id": 105,
+    "title": "Mme Lumineuse",
+    "isbn": "9782012042704",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948842/monsieur_madame/9782012042704_dge6z3.webp"
+  },
+  {
+    "id": 106,
+    "title": "Mme Magie",
+    "isbn": "9782012248663",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948965/monsieur_madame/9782012248663_zersyo.webp"
+  },
+  {
+    "id": 107,
+    "title": "Mme Magie à la rescousse",
+    "isbn": "9782012251885",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949039/monsieur_madame/9782012251885_jn32fq.webp"
+  },
+  {
+    "id": 108,
+    "title": "Mme Malchance",
+    "isbn": "9782012248168",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948891/monsieur_madame/9782012248168_assvs2.webp"
+  },
+  {
+    "id": 109,
+    "title": "Mme Oui",
+    "isbn": "9782012248304",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948914/monsieur_madame/9782012248304_bxkbuf.webp"
+  },
+  {
+    "id": 110,
+    "title": "Mme Pourquoi",
+    "isbn": "9782012248212",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948902/monsieur_madame/9782012248212_cjst2q.webp"
+  },
+  {
+    "id": 111,
+    "title": "Mme Princesse",
+    "isbn": "9782012266964",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949063/monsieur_madame/9782012266964_or4w2b.webp"
+  },
+  {
+    "id": 112,
+    "title": "Mme Proprette",
+    "isbn": "9782012248762",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948981/monsieur_madame/9782012248762_ybafim.webp"
+  },
+  {
+    "id": 113,
+    "title": "Mme Proprette contre les tâches",
+    "isbn": "9782012251908",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949043/monsieur_madame/9782012251908_xyngqv.webp"
+  },
+  {
+    "id": 114,
+    "title": "Mme Proprette déteste l'automne",
+    "isbn": "9782012271838",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949079/monsieur_madame/9782012271838_bvtbsj.webp"
+  },
+  {
+    "id": 115,
+    "title": "Mme Prudente",
+    "isbn": "9782012248229",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948902/monsieur_madame/9782012248229_lxmnlj.webp"
+  },
+  {
+    "id": 116,
+    "title": "Mme Range-Tout",
+    "isbn": "9782012248236",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948905/monsieur_madame/9782012248236_mhdnrv.webp"
+  },
+  {
+    "id": 117,
+    "title": "Mme Terreur",
+    "isbn": "9782012248595",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948951/monsieur_madame/9782012248595_iztmxr.webp"
+  },
+  {
+    "id": 118,
+    "title": "Mme Timide",
+    "isbn": "9782012248694",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948969/monsieur_madame/9782012248694_gadyxd.webp"
+  },
+  {
+    "id": 119,
+    "title": "Mme Tintamarre",
+    "isbn": "9782012248250",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948905/monsieur_madame/9782012248250_qczlps.webp"
+  },
+  {
+    "id": 120,
+    "title": "Mme Tête-en-l'air",
+    "isbn": "9782012248687",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948969/monsieur_madame/9782012248687_jwubkt.webp"
+  },
+  {
+    "id": 121,
+    "title": "Mme Tête-en-l'air part à la mer",
+    "isbn": "9782012271845",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949080/monsieur_madame/9782012271845_wj4ypw.webp"
+  },
+  {
+    "id": 122,
+    "title": "Mme Tête-en-l'air sème la pagaille",
+    "isbn": "9782012251939",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949051/monsieur_madame/9782012251939_klwpng.webp"
+  },
+  {
+    "id": 123,
+    "title": "Mme Têtue",
+    "isbn": "9782012248311",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948914/monsieur_madame/9782012248311_osn0xr.webp"
+  },
+  {
+    "id": 124,
+    "title": "Mme Têtue va jusqu'au bout",
+    "isbn": "9782012251946",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949053/monsieur_madame/9782012251946_omtqgc.webp"
+  },
+  {
+    "id": 125,
+    "title": "Mme Vedette",
+    "isbn": "9782012248786",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948982/monsieur_madame/9782012248786_vthfsv.webp"
+  },
+  {
+    "id": 126,
+    "title": "Mme Vite-Fait",
+    "isbn": "9782012248267",
+     "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948908/monsieur_madame/9782012248267_nf03eh.webp"
+  },
+  {
+    "id": 127,
+    "title": "Mon coffret Monsieur Madame",
+    "isbn": "9782013987622",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949100/monsieur_madame/9782013987622_qtntl8.webp"
+  },
+  {
+    "id": 128,
+    "title": "Monsieur Madame : coffret collector",
+    "isbn": "9782013987523",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949094/monsieur_madame/9782013987523_ic1gmq.webp"
+  },
+  {
+    "id": 129,
+    "title": "Monsieur Madame : coffret collector 2",
+    "isbn": "9782013987615",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949097/monsieur_madame/9782013987615_hayiuk.webp"
+  },
+  {
+    "id": 130,
+    "title": "Quel réconfort, Mme Bonheur !",
+    "isbn": "9782012249066",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949023/monsieur_madame/9782012249066_x8x2gc.webp"
+  },
+  {
+    "id": 131,
+    "title": "Mme Canaille, plus canaille que jamais",
+    "isbn": "9782012271784",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949073/monsieur_madame/9782012271784_uixj6v.webp"
+  },
+  {
+    "id": 132,
+    "title": "Soyez polie, Mme Autoritaire",
+    "isbn": "9782012271777",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949069/monsieur_madame/9782012271777_qobiy1.webp"
+  },
+  {
+    "id": 133,
+    "title": "Un dimanche inoubliable pour Mme Petite",
+    "isbn": "9782012251892",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949042/monsieur_madame/9782012251892_vy2jok.webp"
+  },
+  {
+    "id": 134,
+    "title": "Un problème, M. Chatouille",
+    "isbn": "9782012271746",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949065/monsieur_madame/9782012271746_h8btpi.webp"
+  },
+  {
+    "id": 135,
+    "title": "Un travail pour Mme Risette",
+    "isbn": "9782012251915",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949047/monsieur_madame/9782012251915_ukoqqq.webp"
+  },
+  {
+    "id": 136,
+    "title": "Une bonne pêche pour M. Méli-Mélo",
+    "isbn": "9782012249004",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949012/monsieur_madame/9782012249004_f0xnhu.webp"
+  },
+  {
+    "id": 137,
+    "title": "Une inondation chez M. Costaud",
+    "isbn": "9782012200838",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948843/monsieur_madame/9782012200838_sb8eqr.webp"
+  },
+  {
+    "id": 138,
+    "title": "Un ami gribcheux pour M. Heureux",
+    "isbn": "9782012271760",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949068/monsieur_madame/9782012271760_qbr448.webp"
+  },
+  {
+    "id": 139,
+    "title": "Une surprise pour M. Curieux",
+    "isbn": "9782012200937",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948850/monsieur_madame/9782012200937_zbacae.webp"
+  },
+  {
+    "id": 140,
+    "title": "Une surprise pour M. Grand",
+    "isbn": "9782012248953",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767949004/monsieur_madame/9782012248953_uo2qpv.webp"
+  },
+  {
+    "id": 141,
+    "title": "Une vue imprenable pour Mme Beauté",
+    "isbn": "9782012200869",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948847/monsieur_madame/9782012200869_eom9zy.webp"
+  },
+  {
+    "id": 142,
+    "title": "Écoutez les bons conseils, Mme Têtue",
+    "isbn": "9782012200883",
+    "url" :"https://res.cloudinary.com/dst61tkcz/image/upload/v1767948848/monsieur_madame/9782012200883_zepzuw.webp"
+  }
+]
+}

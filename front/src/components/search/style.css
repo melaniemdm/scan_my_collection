@@ -1,0 +1,32 @@
+.searchbar {
+  position: relative;
+  max-width: 520px;
+  margin: 20px auto 30px;
+}
+
+.searchbar-input {
+  width: 100%;
+  padding: 12px 42px 12px 14px;
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.06);
+  color: #fff;
+  outline: none;
+}
+
+.searchbar-input::placeholder {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.searchbar-clear {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 0;
+  border-radius: 10px;
+  padding: 6px 10px;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+}

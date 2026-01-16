@@ -1,0 +1,26 @@
+/* Titre */
+.bibliotheque-title{
+  text-align: center;
+  font-size: 2.2rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 60px;
+  color: #ffffff;
+}
+/* Header Bibliotheque page */
+.header-bibliotheque{
+  min-height: 100vh;
+  padding: 80px 60px;
+  background: radial-gradient(circle at top, #1c1c1c, #0d0d0d);
+  color: #f5f5f5;
+  font-family: "Montserrat", sans-serif;
+
+}
+.biblio-grid {
+   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 260px));
+  justify-content: center; 
+  gap: 22px;
+  
+}
+
