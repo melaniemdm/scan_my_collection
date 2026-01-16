@@ -34,7 +34,7 @@ export default function Scanner() {
   const handleAddToCollection = () => {
     if (!foundBook) return;
     addOwnedIsbn(foundBook.isbn);
-    navigate("/collection"); // ou "/bibliotheque" selon ta page collection
+    navigate("/bibliotheque"); // redirige vers bibliotheque
   };
 
   // démarrage/arrêt du scanner
