@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { FaArrowLeft } from "react-icons/fa";
 import "./style.css";
 
 export default function HeaderNav() {
